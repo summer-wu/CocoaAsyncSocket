@@ -380,6 +380,10 @@
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleHTTPClient/SimpleHTTPClient-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					DEBUG,
+					GCDAsyncSocketLoggingEnabled1,
+				);
 				INFOPLIST_FILE = "SimpleHTTPClient/SimpleHTTPClient-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;

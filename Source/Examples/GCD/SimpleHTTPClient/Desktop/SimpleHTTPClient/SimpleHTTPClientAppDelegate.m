@@ -1,4 +1,5 @@
 #import "SimpleHTTPClientAppDelegate.h"
+
 #import "GCDAsyncSocket.h"
 #import "DDLog.h"
 #import "DDTTYLogger.h"
@@ -8,10 +9,10 @@
 static const int ddLogLevel = LOG_LEVEL_VERBOSE;
 
 #define  WWW_PORT 0  // 0 => automatic
-#define  WWW_HOST @"www.amazon.com"
-#define CERT_HOST @"www.amazon.com"
+#define  WWW_HOST @"www.baidu.com"
+#define CERT_HOST @"www.baidu.com"
 
-#define USE_SECURE_CONNECTION    1
+#define USE_SECURE_CONNECTION    0
 #define MANUALLY_EVALUATE_TRUST  1
 
 #define READ_HEADER_LINE_BY_LINE 0
