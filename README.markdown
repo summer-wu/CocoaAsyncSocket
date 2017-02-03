@@ -1,3 +1,6 @@
+#修改
+修改了examples的目录，并创建了好了 Products/CocoaAsyncSocket.framework，模拟器和真机都可以用。可以直接用。
+
 # CocoaAsyncSocket
 [![Build Status](https://travis-ci.org/robbiehanson/CocoaAsyncSocket.svg?branch=master)](https://travis-ci.org/robbiehanson/CocoaAsyncSocket) [![Version Status](https://img.shields.io/cocoapods/v/CocoaAsyncSocket.svg?style=flat)](http://cocoadocs.org/docsets/CocoaAsyncSocket) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Platform](http://img.shields.io/cocoapods/p/CocoaAsyncSocket.svg?style=flat)](http://cocoapods.org/?q=CocoaAsyncSocket) [![license Public Domain](https://img.shields.io/badge/license-Public%20Domain-orange.svg?style=flat)](https://en.wikipedia.org/wiki/Public_domain)
 
